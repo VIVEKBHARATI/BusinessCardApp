@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="phoneNum">9041708617</string>
+    <string name="email">vivekbharati2021@gmail.com</string>
+    <string name="linkedin">vivekbharati2002</string>
+    <string name="devname">Vivek Bharati</string>
+    <string name="profile">Jr. Android Developer</string>
+    <string name="place">Amritsar PB</string>
+</resources>
